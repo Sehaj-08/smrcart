@@ -1,0 +1,20 @@
+# FastAPI and server
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+
+# CORS and middleware
+python-multipart==0.0.6
+
+# Supabase integration
+supabase==2.0.3
+
+# HTTP requests for Flowise
+httpx==0.25.1
+requests==2.31.0
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Optional: Data validation
+email-validator==2.1.0
